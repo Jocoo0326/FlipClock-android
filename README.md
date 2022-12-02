@@ -1,3 +1,6 @@
 # FlipClock-android
 A htc-sense like flip clock
-[](./output.gif)
+
+## preview:
+
+<img src="output.gif" width="405" height="720" />
